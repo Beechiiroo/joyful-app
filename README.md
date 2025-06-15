@@ -1,73 +1,65 @@
-# Welcome to your Lovable project
+# 🎮 Game Portal — Modern Mini-Game Hub (Friv Style)
 
-## Project info
+A **professional game portal web application** featuring a clean interface, categorized games, smooth transitions, and responsive design. Inspired by Friv, this portal allows users to enjoy multiple mini-games from a single interface.
 
-**URL**: https://lovable.dev/projects/619c0861-0d3c-4594-9a63-28437dafa526
+## 🚀 Live Features
 
-## How can I edit this code?
+✅ Clean, intuitive interface  
+🎲 4 Fully playable mini-games:
+- **Tic Tac Toe**
+- **Memory Cards**
+- **Snake**
+- **Color Match**
 
-There are several ways of editing your application.
+🔍 Game Search  
+📁 Game Categories (Arcade, Puzzle, Strategy, etc.)  
+📱 Fully responsive (Desktop + Mobile)  
+✨ Smooth UI transitions and hover effects
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/619c0861-0d3c-4594-9a63-28437dafa526) and start prompting.
+## 🎨 Design Highlights
 
-Changes made via Lovable will be committed automatically to this repo.
+- Minimalist layout with game thumbnails and hover overlays
+- Category-based navigation system
+- Modern typography and iconography
+- Game modal or dedicated pages
+- Color-coded game genres
+- Optimized for performance
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🧩 Mini-Games Overview
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### ✖️ Tic Tac Toe
+- Two-player logic game
+- Win with 3 in a row!
 
-Follow these steps:
+### 🧠 Memory Cards
+- Flip cards to match pairs
+- Tracks attempts
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 🐍 Snake Game
+- Classic arcade snake game
+- Collect food, avoid walls
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 🎨 Color Match
+- Fast-paced reaction game
+- Match colors quickly!
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 🛠️ Tech Stack
 
-**Edit a file directly in GitHub**
+| Technology | Usage |
+|------------|--------|
+| **React (TypeScript)** | Component-based UI |
+| **Tailwind CSS** | Styling and responsiveness |
+| **Framer Motion** | Animations and transitions |
+| **React Router** | Page navigation |
+| **React Icons** | Category and UI icons |
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 🗂️ Project Structure
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/619c0861-0d3c-4594-9a63-28437dafa526) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
